@@ -1,0 +1,48 @@
+.dark {
+  background-color: #355362; /* darkGray */
+  color: #FFFCF1; /* Text color for dark mode */
+}
+
+.light {
+  background-color: #FFFCF1; /* lightGray */
+  color: #355362; /* Text color for light mode */
+}
+
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+.App {
+  text-align: center;
+  padding: 20px;
+}
+
+
+button {
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+  margin-bottom: 20px;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  padding: 10px 0;
+}
+
+.font-cursive {
+  font-family: cursive;
+}
+
